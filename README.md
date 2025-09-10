@@ -14,20 +14,6 @@ Absolutely! Based on your workflow, here’s a **professional, GitHub-ready READ
 
 ---
 
-## **Table of Contents**
-
-1. [Overview](#overview)
-2. [Dataset](#dataset)
-3. [Installation](#installation)
-4. [Data Preprocessing](#data-preprocessing)
-5. [Model Architectures](#model-architectures)
-6. [Training](#training)
-7. [Evaluation & Visualization](#evaluation--visualization)
-8. [Project Showcase](#project-showcase)
-9. [Citation](#citation)
-10. [License](#license)
-
----
 
 ## **Overview**
 
@@ -203,16 +189,3 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ---
 
-This README now includes:
-
-* Badges for **TensorFlow**, **Python**, **License**
-* Both **custom CNN** and **transfer learning models**
-* **Training & fine-tuning workflow**
-* **GIF showcase** for predictions
-* Explicit **dataset name and citation**
-
----
-
-I can also **update it with a “mini-dashboard GIF” that shows prediction probabilities as horizontal bars** for each class, which looks very professional on GitHub.
-
-Do you want me to add that next?
